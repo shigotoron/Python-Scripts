@@ -4,7 +4,7 @@
 
 from fractions import Fraction
 
-n = 10
+n = 5
 total = 1
 
 for i in reversed(range(1, n)):

@@ -5,7 +5,7 @@
 from fractions import Fraction
 import math
 
-n = 10
+n = 5
 total = 0
 
 for i in range(n):
