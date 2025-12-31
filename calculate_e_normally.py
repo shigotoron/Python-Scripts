@@ -11,5 +11,6 @@ total = 0
 for i in range(n):
     total += Fraction(1, math.factorial(i))
 
+print("普通のプログラム")
 print("分数による表示：", total)
 print("小数による表示：", float(total))
