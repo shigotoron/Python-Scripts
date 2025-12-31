@@ -10,5 +10,5 @@ total = 1
 for i in reversed(range(1, n)):
     total = 1 + Fraction(total, i)
 
-print(total)
-print(float(total))
+print("分数による表示：", total)
+print("小数による表示：", float(total))
